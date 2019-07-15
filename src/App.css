@@ -1,0 +1,9 @@
+.container-app {
+  background-image: url('./assets-tp/black-summer-background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #000000;
+  height: 100vh;
+  width: 100vw;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}

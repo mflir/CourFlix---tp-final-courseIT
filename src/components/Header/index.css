@@ -1,0 +1,14 @@
+.container-header {
+  width: 395px;
+  color: white;
+  position: relative;
+  padding-top: 125px;
+  padding-left: 50px;
+
+}
+
+h1 {
+  font-size: 80px;
+  width: 370px;
+  line-height: 60px;
+}
